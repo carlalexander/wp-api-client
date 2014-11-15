@@ -16,7 +16,7 @@ This is still a work in progress. The client currently only supports the `get_us
 ## Usage
 
 ```php
-$client = GV_API_Client::create('http://your.wordpress.org', 'your_token');
+$client = WP_API_Client::create('http://your.wordpress.org', 'your_token');
 
 $users = $client->get_users();
 ```
