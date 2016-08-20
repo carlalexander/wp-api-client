@@ -1,0 +1,9 @@
+{
+    "name": "carlalexander/wp-api-client",
+    "description": "PHP client for the WordPress JSON REST API",
+    "homepage": "https://carlalexander.ca",
+    "license": "GPL-3.0+",
+    "require": {
+        "php": ">=5.2.4"
+    }
+}
