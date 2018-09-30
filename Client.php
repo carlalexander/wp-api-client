@@ -15,7 +15,7 @@ class WP_API_Client
      *
      * @var string
      */
-    const ENDPOINT_USERS = '/wp-json/users';
+    const ENDPOINT_USERS = '/wp-json/wp/v2/users';
 
     /**
      * Base URL for the WordPress site that the client is connecting to.
